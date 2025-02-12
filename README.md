@@ -1,4 +1,4 @@
-# opal-electron-desktop-app# Opal: Screen Recording and Collaboration Platform
+# Opal: Screen Recording and Collaboration Platform
 
 
 Opal is a comprehensive application designed to streamline screen recording and video collaboration workflows. It consists of three integrated components: a Next.js web application, an Electron.js-based desktop application, and an Express.js server for video processing.
